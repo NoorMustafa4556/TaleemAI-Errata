@@ -1,40 +1,39 @@
-# 🎓 TaleemAI-Errata: Smart Education Reimagined
+# 🎓 TaleemAI-Errata: Reimagining the National Math Curriculum
 
-**TaleemAI-Errata** is Pakistan's first AI-powered education platform dedicated to transforming the National Curriculum into a world-class learning experience. By leveraging **Gemini's reasoning engine**, the platform identifies and audits errors in textbooks while providing a modernized, conceptual syllabus for students and teachers.
+**TaleemAI-Errata** is a research-driven, AI-powered platform designed to audit and refine the Single National Curriculum (SNC) Math textbooks for Grades 6, 7, and 8 in Pakistan. 
 
----
-
-## 🚀 Core Modules
-
-### 1. Refined Syllabus 📚
-Experience a modernized approach to the **Single National Curriculum (SNC)** for Grades 6, 7, and 8.
-- **Interactive Knowledge Graphs**: Visualize concepts and their interconnections.
-- **Bilingual Support**: Full English and Urdu translations for inclusivity.
-- **Conceptual Depth**: Content structured to move beyond rote learning toward deep understanding.
-
-### 2. Errata Database 🔍
-A transparent, real-time audit system for textbook quality improvement.
-- **Factual Repairs**: Correcting scientific and historical inaccuracies.
-- **Pedagogical Updates**: Improving how concepts are taught and explained.
-- **Editorial Fixes**: Catching typos, grammatical errors, and formatting issues.
-- **Page-Wise Search**: Precise navigation to specific textbook pages and their logged errors.
+The project addresses a critical gap: despite 12 years of mathematics, many students struggle with fundamental concepts like "Sets" due to syllabus repetition, redundancies, and errors, leading to academic frustration.
 
 ---
 
-## � Tech Stack
+## � Our Research Process
 
-- **Core**: [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Navigation**: [React Router 7](https://reactrouter.com/)
-- **AI Engine**: Google Gemini (Content Refinement & Reasoning)
-- **Data Layer**: Optimized JSON Graph Structures
+This project was implemented through a multi-phase research and development workflow:
+1.  **OCR & Digitization**: Used advanced AI prompts to perform OCR on physical textbooks.
+2.  **Error Identification**: Systematically identified and categorized errors into:
+    *   **Factual Errors**: Scientific or mathematical inaccuracies.
+    *   **Editorial Errors**: Typos and grammatical mistakes.
+    *   **Pedagogical Errors**: Flaws in teaching methodology and concept explanation.
+3.  **Knowledge Graph Creation**: Built a complete, redundancy-free **Knowledge Graph** in JSON format to map and connect all curriculum concepts.
+4.  **Urdu Translation**: Implemented AI-driven translation to ensure the content is accessible to students who struggle with English.
 
 ---
 
-## � Project Gallery
+## 🚀 Key Modules & Features
 
-Discover the interface of **TaleemAI-Errata** through these screenshots.
+The platform provides dedicated modules for **Students**, **Teachers**, and **Government (Policymakers)**.
+
+### 🌟 Advanced Features
+*   **Curriculum Correction**: Allows users with old books to identify and fix errors in their physical copies.
+*   **Accessibility (Zoom Feature)**: Specially designed for elderly users or those with weak eyesight to easily read complex mathematical notations.
+*   **Smart Search & Filters**: Includes both General Search and Page-Wise Navigation for pinpoint accuracy.
+*   **Dark Mode**: Optimized for comfortable reading in all lighting conditions.
+*   **Bilingual Experience**: Content available in both English and Urdu for maximum impact.
+*   **Cross-Platform App**: Available as a web platform and a mobile app for on-the-go learning.
+
+---
+
+## 📸 Project Gallery
 
 <p align="center">
   <img src="Images/1.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
@@ -75,32 +74,38 @@ Discover the interface of **TaleemAI-Errata** through these screenshots.
 
 ---
 
-## � Getting Started
+## 👨‍🏫 Guidance & Inspiration
 
-### 1. Clone & Install
+This project was guided and mentored by:
+**Doctor Muhammad Omar**  
+*Assistant Professor, Department of Computer Science*  
+*The Islamia University of Bahawalpur*
+
+All features and implementation strategies were developed according to his expert academic guidance.
+
+---
+
+## � The Team
+
+*   **Team Leader & Product Owner**: Doctor Muhammad Omar
+*   **AI Engineer**: Umair Ruman
+*   **Flutter Developer**: Noor Mustafa
+
+---
+
+## 🔧 Getting Started
+
+### 1. Installation
 ```bash
 git clone https://github.com/NoorMustafa4556/TaleemAI-Errata.git
 cd TaleemAI-Errata
 npm install
 ```
 
-### 2. Run Development Server
+### 2. Development
 ```bash
 npm run dev
 ```
 
 ---
-
-## 👋 Connect with the Developer
-
-**Noor Mustafa**  
-*Software Developer | Bahawalpur, Pakistan*
-
-<p align="left">
-  <a href="https://github.com/NoorMustafa4556"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/noormustafa4556/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/923087655076"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
----
-> "Solving real-world education gaps, one line of code at a time."
+> "Empowering the future of Pakistan by fixing our foundations, one page at a time."
