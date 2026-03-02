@@ -6,7 +6,7 @@ The project addresses a critical gap: despite 12 years of mathematics, many stud
 
 ---
 
-## � Our Research Process
+## 🔬 Our Research Process
 
 This project was implemented through a multi-phase research and development workflow:
 1.  **OCR & Digitization**: Used advanced AI prompts to perform OCR on physical textbooks.
@@ -71,6 +71,21 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
   <img src="Images/17.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
   <img src="Images/18.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
 </p>
+<p align="center">
+  <img src="Images/19.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/20.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+</p>
+<p align="center">
+  <img src="Images/21.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/22.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+</p>
+<p align="center">
+  <img src="Images/23.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/24.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+</p>
+<p align="center">
+  <img src="Images/25.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+</p>
 
 ---
 
@@ -85,7 +100,7 @@ All features and implementation strategies were developed according to his exper
 
 ---
 
-## � The Team
+## 👥 The Team
 
 *   **Team Leader & Product Owner**: Doctor Muhammad Omar
 *   **AI Engineer**: Umair Ruman
