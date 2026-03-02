@@ -6,8 +6,6 @@ The project addresses a critical gap: despite 12 years of mathematics, many stud
 
 ---
 
-
-
 ## 🔬 Our Research Process
 
 This project was implemented through a multi-phase research and development workflow:
