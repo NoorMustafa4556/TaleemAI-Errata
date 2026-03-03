@@ -38,7 +38,7 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
 
 <p align="center">
   <img src="Images/1.png" width="90%" style="margin: 5px; border-radius: 25px;"/>
-  <img src="Images/2.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/2.png" width="90%" style="margin: 5px; border-radius: 25px;"/>
 </p>
 <p align="center">
   <img src="Images/3.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
