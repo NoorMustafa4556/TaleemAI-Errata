@@ -1,6 +1,6 @@
 # 🎓 TaleemAI-Errata: Reimagining the National Math Curriculum
 
-**TaleemAI-Errata** is a research-driven, AI-powered platform designed to audit and refine the Single National Curriculum (SNC) Math textbooks for Grades 6, 7, and 8 in Pakistan. 
+**TaleemAI-Errata** is a research-driven, AI-powered platform designed to audit and refine the Single National Curriculum (SNC) Math textbooks for ** Grades 6, 7, and 8** in Pakistan. 
 
 The project addresses a critical gap: despite 12 years of mathematics, many students struggle with fundamental concepts like "Sets" due to syllabus repetition, redundancies, and errors, leading to academic frustration.
 
@@ -9,8 +9,8 @@ The project addresses a critical gap: despite 12 years of mathematics, many stud
 ## 🔬 Our Research Process
 
 This project was implemented through a multi-phase research and development workflow:
-1.  **OCR & Digitization**: Used advanced AI prompts to perform OCR on physical textbooks.
-2.  **Error Identification**: Systematically identified and categorized errors into:
+1.  ## **OCR & Digitization**: Used advanced AI prompts to perform OCR on physical textbooks.
+2.  ## **Error Identification**: Systematically identified and categorized errors into:
     *   **Factual Errors**: Scientific or mathematical inaccuracies.
     *   **Editorial Errors**: Typos and grammatical mistakes.
     *   **Pedagogical Errors**: Flaws in teaching methodology and concept explanation.
