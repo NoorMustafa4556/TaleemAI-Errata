@@ -13,7 +13,8 @@ This project was implemented through a multi-phase research and development work
 ### 2.   **Error Identification**: Systematically identified and categorized errors into:
    *   **Factual Errors**: Scientific or mathematical inaccuracies.
    *   **Editorial Errors**: Typos and grammatical mistakes.
-      *   **Pedagogical Errors**: Flaws in teaching methodology and concept explanation.
+   *   **Pedagogical Errors**: Flaws in teaching methodology and concept explanation.
+     
 ### 3.  **Knowledge Graph Creation**: Built a complete, redundancy-free **Knowledge Graph** in JSON format to map and connect all curriculum concepts.
 ### 4.  **Urdu Translation**: Implemented AI-driven translation to ensure the content is accessible to students who struggle with English.
 
@@ -24,64 +25,64 @@ This project was implemented through a multi-phase research and development work
 The platform provides dedicated modules for **Students**, **Teachers**, and **Government (Policymakers)**.
 
 ### 🌟 Advanced Features
-#### *   **Curriculum Correction**: Allows users with old books to identify and fix errors in their physical copies.
-*   **Accessibility (Zoom Feature)**: Specially designed for elderly users or those with weak eyesight to easily read complex mathematical notations.
-*   **Smart Search & Filters**: Includes both General Search and Page-Wise Navigation for pinpoint accuracy.
-*   **Dark Mode**: Optimized for comfortable reading in all lighting conditions.
-*   **Bilingual Experience**: Content available in both English and Urdu for maximum impact.
-*   **Cross-Platform App**: Available as a web platform and a mobile app for on-the-go learning.
+### *   **Curriculum Correction**: Allows users with old books to identify and fix errors in their physical copies.
+### *   **Accessibility (Zoom Feature)**: Specially designed for elderly users or those with weak eyesight to easily read complex mathematical notations.
+### *   **Smart Search & Filters**: Includes both General Search and Page-Wise Navigation for pinpoint accuracy.
+### *   **Dark Mode**: Optimized for comfortable reading in all lighting conditions.
+### *   **Bilingual Experience**: Content available in both English and Urdu for maximum impact.
+### *   **Cross-Platform App**: Available as a web platform and a mobile app for on-the-go learning.
 
 ---
 
 ## 📸 Project Gallery
 
 <p align="center">
-  <img src="Images/1.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/2.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/1.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/2.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/3.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/4.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/3.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/4.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/5.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/6.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/5.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/6.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/7.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/8.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/7.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/8.png" width="90%" style="margin: 5px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/9.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/10.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/9.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/10.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/11.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/12.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/11.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/12.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 <p align="center">
-  <img src="Images/13.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/14.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/13.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/14.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 <p align="center">
-  <img src="Images/15.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/16.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/15.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/16.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 <p align="center">
-  <img src="Images/17.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/17.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
   <img src="Images/18.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 <p align="center">
   <img src="Images/19.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/20.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/20.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 <p align="center">
-  <img src="Images/21.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/22.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/21.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/22.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 <p align="center">
-  <img src="Images/23.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/24.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/23.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/24.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 <p align="center">
   <img src="Images/25.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
