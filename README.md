@@ -37,11 +37,11 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
 ## 📸 Project Gallery
 
 <p align="center">
-  <img src="Images/1.png" width="90%" style="margin: 25px; border-radius: 15px;"/>
+  <img src="Images/1.png" width="90%" style="margin: 25px; border-radius: 25px;"/>
   <img src="Images/2.png" width="90%" style="margin: 25px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/3.png" width="90%" style="margin: 25px; border-radius: 15px;"/>
+  <img src="Images/3.png" width="90%" style="margin: 25px; border-radius: 25px;"/>
   <img src="Images/4.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
