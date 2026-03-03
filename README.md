@@ -37,11 +37,11 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
 ## 📸 Project Gallery
 
 <p align="center">
-  <img src="Images/1.png" width="90%" style="margin: 25px; border-radius: 25px;"/>
-  <img src="Images/2.png" width="90%" style="margin: 25px; border-radius: 25px;"/>
+  <img src="Images/1.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/2.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/3.png" width="90%" style="margin: 25px; border-radius: 25px;"/>
+  <img src="Images/3.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
   <img src="Images/4.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
@@ -50,42 +50,42 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
 </p>
 <p align="center">
   <img src="Images/7.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
-  <img src="Images/8.png" width="90%" style="margin: 5px; border-radius: 25px;"/>
+  <img src="Images/8.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
   <img src="Images/9.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
   <img src="Images/10.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/11.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/12.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/11.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/12.png" width="90%" style="margin:15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/13.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/14.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/13.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/14.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/15.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/16.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/15.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/16.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/17.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/18.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/17.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/18.png" width="45%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/19.png" width="45%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/20.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/19.png" width="45%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/20.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/21.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/22.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/21.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/22.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/23.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
-  <img src="Images/24.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/23.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/24.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/25.png" width="90%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="Images/25.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 
 ---
@@ -93,19 +93,19 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
 ## 👨‍🏫 Guidance & Inspiration
 
 This project was guided and mentored by:
-**Doctor Muhammad Omar**  
-*Assistant Professor, Department of Computer Science*  
-*The Islamia University of Bahawalpur*
+## **Doctor Muhammad Omar**  
+### *Assistant Professor, Department of Computer Science*  
+### *The Islamia University of Bahawalpur*
 
-All features and implementation strategies were developed according to his expert academic guidance.
+**All features and implementation strategies were developed according to Their  expert academic guidance.**
 
 ---
 
 ## 👥 The Team
 
-*   **Team Leader & Product Owner**: Doctor Muhammad Omar
-*   **AI Engineer**: Umair Ruman
-*   **Flutter Developer**: Noor Mustafa
+### *   **Team Leader & Product Owner**: Doctor Muhammad Omar
+### *   **AI Engineer**: Umair Ruman
+### *   **Flutter Developer**: Noor Mustafa
 
 ---
 
