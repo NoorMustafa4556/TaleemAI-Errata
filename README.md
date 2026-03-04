@@ -70,10 +70,10 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
 </p>
 <p align="center">
   <img src="Images/17.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
-  <img src="Images/18.png" width="45%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/18.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
-  <img src="Images/19.png" width="45%" style="margin: 15px; border-radius: 25px;"/>
+  <img src="Images/19.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
   <img src="Images/20.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
 </p>
 <p align="center">
