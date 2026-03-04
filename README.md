@@ -115,14 +115,16 @@ This project was guided and mentored by:
 ```bash
 git clone https://github.com/NoorMustafa4556/TaleemAI-Errata.git
 ```
+### 2. Navigate to Project Directory
 ```bash
 cd TaleemAI-Errata
 ```
+### 3. Installation Of React 
 ```bash
 npm install
 ```
 
-### 2. Development
+### 4.Run The Project
 ```bash
 npm run dev
 ```
