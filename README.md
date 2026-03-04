@@ -34,7 +34,7 @@ The platform provides dedicated modules for **Students**, **Teachers**, and **Go
 
 ---
 
-## 📸 Project Gallery
+## 📸 Project Screenshot
 
 <p align="center">
   <img src="Images/1.png" width="90%" style="margin: 15px; border-radius: 25px;"/>
