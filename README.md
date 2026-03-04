@@ -114,7 +114,11 @@ This project was guided and mentored by:
 ### 1. Installation
 ```bash
 git clone https://github.com/NoorMustafa4556/TaleemAI-Errata.git
+```
+```bash
 cd TaleemAI-Errata
+```
+```bash
 npm install
 ```
 
